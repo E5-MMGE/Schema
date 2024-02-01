@@ -1,6 +1,6 @@
-<mxfile host="Electron" modified="2024-02-01T11:16:33.950Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/23.0.2 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="j0dyTF3x00YLxnAUKkS5" version="23.0.2" type="device">
+<mxfile host="Electron" modified="2024-02-01T11:19:44.684Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/23.0.2 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="rRhB76kpVZurL6Z1bPVO" version="23.0.2" type="device">
   <diagram name="Page-1" id="-upYI9Og3K5OpTXtrUxu">
-    <mxGraphModel dx="1518" dy="780" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
+    <mxGraphModel dx="1290" dy="629" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -442,7 +442,7 @@
         <mxCell id="zA_DFFU74Qikvi_ITeph-1" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.security_camera;" parent="1" vertex="1">
           <mxGeometry x="826.0600000000001" y="267" width="54" height="43" as="geometry" />
         </mxCell>
-        <mxCell id="zA_DFFU74Qikvi_ITeph-3" value="192.168.2.200&lt;br&gt;(Port : 1996 &amp;gt; 88)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="zA_DFFU74Qikvi_ITeph-3" value="192.168.2.200&lt;br&gt;(Port : 1996)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="820" y="307" width="122.73" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zA_DFFU74Qikvi_ITeph-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;strokeColor=#bd7000;" parent="1" source="hknT0nu2qaCQ0JWSeQc5-3" target="zA_DFFU74Qikvi_ITeph-1" edge="1">
